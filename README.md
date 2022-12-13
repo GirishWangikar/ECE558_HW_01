@@ -1,2 +1,2 @@
 # ECE558_HW_01
-Find Digital Signature of your student ID
+Find Digital Signature of your student ID in an image.
